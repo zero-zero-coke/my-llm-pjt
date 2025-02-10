@@ -1,0 +1,30 @@
+/* 요즘 대세임 google font -> noonnu */
+@font-face {
+  font-family: "PeoplefirstILTTF";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2501-1@1.1/PeoplefirstILTTF.woff2")
+    format("woff2");
+  /* font-weight: normal;
+  font-style: normal; */
+}
+
+@font-face {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header {
+  font-family: "PeoplefirstILTTF";
+}
+
+body {
+  font-family: "GmarketSansMedium";
+}
