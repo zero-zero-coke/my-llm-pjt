@@ -28,3 +28,7 @@ header {
 body {
   font-family: "GmarketSansMedium";
 }
+
+#box p {
+  white-space: pre-wrap;
+}
